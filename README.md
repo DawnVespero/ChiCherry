@@ -1,9 +1,11 @@
 # ChiCherry
  A Macintosh 128k-style icon pack
 
+![ChiCherry Logo](ChiCherry-Logo.png)
+
 ---
 
-**ChiCherry ** *("[Chicago ]([Chicago (typeface) - Wikipedia](https://en.wikipedia.org/wiki/Chicago_(typeface))Cherry")* is an icon set that tries to recreate the look of the Macintosh 128k's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the older MacOS versions more completely by providing icons for newer programs that fit with this style.
+**ChiCherry ** *("[Chicago ]([Chicago (typeface) - Wikipedia](https://en.wikipedia.org/wiki/Chicago_(typeface))[Cherry](https://en.wikipedia.org/wiki/Apple_Inc.#Logo)")* is an icon set that tries to recreate the look of the Macintosh 128k's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the older MacOS versions more completely by providing icons for newer programs that fit with this style.
 
 While these may use some of the original "System 1" icons as a base (such as the file icon), **all icons in this repo must be original**. Please don't just recolor the original icons and push them here.
 
@@ -15,7 +17,7 @@ To keep the look of the icons consistent, please make sure your additions meet t
 
 * .ico file type
 * Create the icons in 32x32 pixel image size, but export them in 256x256
-* Monochrome Palette
+* [1-Bit Monitor Glow](https://lospec.com/palette-list/1bit-monitor-glow) Palette
 
 ### Naming
 
@@ -37,9 +39,10 @@ If you're in doubt about the author of a program, not sure which to use, or just
 
 ### MacOS
 
+The method listed below is the vanilla method provided by the OS. If you want to apply these custom icons to system apps, I would recommend [IconChamp](https://www.macenhance.com/iconchamp.html) or a similar application of your choice. For IconChamp users, an .ict file is provided in the root folder which will install the theme automatically when opened.
+
 1. Open you application folder (Macintosh HD -> Applications)
 2. Select the application whose icon you want to change and open its info panel (⌘I)
 3. Open the .ico file you want to apply to the app in Preview
 4. Select the desired icon size and copy it (⌘C)
 5. In the app's info window, select the application icon in the upper left corner and paste the icon (⌘V)
-6. Close the info window
