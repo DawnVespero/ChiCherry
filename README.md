@@ -5,7 +5,7 @@
 
 ---
 
-**ChiCherry ** *("[Chicago ]([Chicago (typeface) - Wikipedia](https://en.wikipedia.org/wiki/Chicago_(typeface))[Cherry](https://en.wikipedia.org/wiki/Apple_Inc.#Logo)")* is an icon set that tries to recreate the look of the Macintosh 128k's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the older MacOS versions more completely by providing icons for newer programs that fit with this style.
+**ChiCherry** ("[Chicago](https://en.wikipedia.org/wiki/Chicago_(typeface)) [Cherry](https://en.wikipedia.org/wiki/Apple_Inc.#Logo)") is an icon set that tries to recreate the look of the Macintosh 128k's desktop icons. The intention behind this is to enable users of modern systems to emulate the aesthetic of the older MacOS versions more completely by providing icons for newer programs that fit with this style.
 
 While these may use some of the original "System 1" icons as a base (such as the file icon), **all icons in this repo must be original**. Please don't just recolor the original icons and push them here.
 
