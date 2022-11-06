@@ -1,5 +1,5 @@
 # ChiCherry
-** A Macintosh 128k-style icon pack**
+**A Macintosh 128k-style icon pack**
 
 ![ChiCherry Logo](ChiCherry-Logo.png)
 
